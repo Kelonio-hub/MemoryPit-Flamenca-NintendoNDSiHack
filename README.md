@@ -29,7 +29,8 @@ We will save, exit and restart the console.
 - Shutterbug2000 for discovering the vulnerability in the Camera app, facilitating the exploit. https://gbatemp.net/threads/memory-pit-a-new-dsi-exploit-for-dsi-camera.539432/
 - RocketRobz for the TWLmenu updates. https://github.com/DS-Homebrew/TwilightMenu/releases
 - Epicpkmn11 by Nand title Manager https://github.com/Epicpkmn11/NTM/releases
-
+- Video Guide: [https://youtube.com/watch?v=3kaKZRm0nAw](https://www.youtube.com/watch?v=9W0aODZAQXI)
+  
 ___________________________
 
 # MemoryPit-Flamenca-NintendoNDSiHack
@@ -64,4 +65,4 @@ Guardaremos, saldremos y reiniciaremos la consola.
 - Shutterbug2000 por descubir la vulnerabilidad en la app de la Cámara, facilitando el exploit. https://gbatemp.net/threads/memory-pit-a-new-dsi-exploit-for-dsi-camera.539432/
 - RocketRobz por las actualizaciones de TWLmenu. https://github.com/DS-Homebrew/TwilightMenu/releases
 - Epicpkmn11 por Nand title Manager https://github.com/Epicpkmn11/NTM/releases
-
+- Vídeo Guía: [https://youtube.com/watch?v=3kaKZRm0nAw](https://www.youtube.com/watch?v=9W0aODZAQXI)
